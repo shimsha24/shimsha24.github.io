@@ -9,7 +9,7 @@ I am currently working in GRC space. I'm looking to grow my career in cloud secu
 ## Contact Information
 
 - **Email**: shimsha.shetty@gmail.com
-- **LinkedIn**: [linkedin.com/in/shimshashetty]([https://www.linkedin.com/in/shimsha-shetty/])
+- **LinkedIn**: [www.linkedin.com/in/shimsha-shetty/]([https://www.linkedin.com/in/shimsha-shetty/])
 - **GitHub**: 
 - **Location**: Melbourne, Austrlia
 
