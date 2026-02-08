@@ -9,7 +9,7 @@ I am currently working in GRC space. I'm looking to grow my career in cloud secu
 ## Contact Information
 
 - **Email**: shimsha.shetty@gmail.com
-- **LinkedIn**: [www.linkedin.com/in/shimsha-shetty/]([https://www.linkedin.com/in/shimsha-shetty/])
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - **GitHub**: 
 - **Location**: Melbourne, Austrlia
 
@@ -21,7 +21,7 @@ As an early-career GRC professional, I'm focused on building practical skills in
 
 ### Cloud Platforms
 - Amazon Web Services (AWS)
-- Microsoft Azure (Fundamentals)
+- Google Cloud (Fundamentals)
 
 ### Security & Compliance
 - AWS Security Services (GuardDuty, Security Hub, IAM, Config)
@@ -36,10 +36,7 @@ As an early-career GRC professional, I'm focused on building practical skills in
 - Monitoring fundamentals (CloudWatch)
 
 ## Certifications
-
-- AWS Certified Security - Specialty - AWS - 2023
-- AWS Certified Solutions Architect - Associate - AWS - 2022
-- CompTIA Security+ - CompTIA - 2021
+- CompTIA Security+ - CompTIA - 2025
 
 ## Projects
 
@@ -125,8 +122,8 @@ As an early-career GRC professional, I'm focused on building practical skills in
 
 ## Education
 
-- **Bachelor of Science in Cybersecurity** - University of Washington - 2021
-- **AWS Security Fundamentals Training** - AWS Training & Certification - 2022
+- **Bachelor of Engineering in computer Science** - 2008
+
 
 ## Professional Development
 
