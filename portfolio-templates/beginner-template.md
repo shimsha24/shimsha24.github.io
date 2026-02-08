@@ -9,7 +9,7 @@ Hello, I'm [Your Name], a Governance, Risk, and Compliance (GRC) professional wi
 ## Contact Information
 
 - **Email**: your.email@example.com
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/shimsha-shetty/)
 - **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 - **Location**: [City, State/Country]
 
