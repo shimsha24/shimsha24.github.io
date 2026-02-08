@@ -1,44 +1,65 @@
-# GRC Professional Portfolio: Shimsha shetty
+# GRC Engineering Portfolio – Shimsha Shetty
 
-## About Me
+---
 
-Hello, I'm Shimsha Shetty, a Governance, Risk, and Compliance (GRC) professional with a focus on AWS cloud security. I'm passionate about building secure cloud environments and ensuring compliance with industry standards and regulations.
+## 👩‍💼 About Me
 
-I am currently working in GRC space. I'm looking to grow my career in cloud security governance.
+Hello, I'm Shimsha Shetty, a Governance, Risk, and Compliance (GRC) professional currently working in the GRC domain. 
+
+I am focused on developing practical GRC Engineering capabilities — bridging governance requirements with technical implementation, particularly within AWS cloud environments.
+
+My goal is to strengthen the connection between compliance frameworks and real-world cloud security controls.
+
+---
+
+## 🎯 Professional Focus
+
+- GRC Engineering & Control Implementation
+- Cloud Security Governance (AWS)
+- Risk Assessment & Control Design
+- Compliance Framework Alignment
+- Policy-to-Technical Control Mapping
 
 
+## 💼 Professional Summary
 
-## Contact Information
+As a GRC professional, I work with governance structures, risk management processes, and compliance frameworks. 
 
-- **Email**: shimsha.shetty@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/shimsha-shetty/
-- **GitHub**: https://github.com/shimsha24
-- **Location**: Melbourne, Australia
+I am currently building hands-on AWS capabilities to implement security controls that align with regulatory and industry standards. This portfolio documents my practical labs and engineering-focused governance implementations.
 
-## Professional Summary
+---
 
-As an early-career GRC professional, I'm focused on building practical skills in AWS security implementation and compliance automation. With foundational knowledge in cybersecurity and hands-on experience with AWS security services, I'm passionate about helping organizations establish secure cloud environments that meet regulatory requirements. I'm particularly interested in security automation and improving the efficiency of compliance processes.
-
-
-## Technical Skills
+## 🛠 Core Competencies
 
 ### Cloud Platforms
 - Amazon Web Services (AWS)
 - Google Cloud (Fundamentals)
 
-### Security & Compliance
-- AWS Security Services (GuardDuty, Security Hub, IAM, Config)
-- Compliance Frameworks (e.g., NIST, CIS, PCI-DSS, ISO27001)
-- Risk Assessment and Management
-- Security Control Implementation
+### Governance & Compliance
+- Risk Assessment & Risk Treatment
+- Control Mapping & Gap Analysis
+- Compliance Frameworks:
+  - NIST
+  - CIS Controls
+  - ISO 27001
+  - PCI-DSS
+- Policy & Standard Development
 
-### Tools & Technologies
-- Infrastructure as Code (CloudFormation, AWS CDK)
-- CI/CD Security Integration
-- Scripting and Automation (Python, Bash)
-- Monitoring and Alerting
 
-## Certifications
+---
 
-- CompTIA Security+ - CompTIA - 2025
+## 📜 Certifications
+
+- CEH Practical – EC-Council  
+- ISC2 Certified in Cybersecurity (CC)  
+- CompTIA Security+  
+
+---
+
+## 📫 Contact
+
+- **Email:** shimsha.shetty@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/shimsha-shetty/  
+- **GitHub:** https://github.com/shimsha24  
+- **Location:** Melbourne, Australia  
 
