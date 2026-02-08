@@ -1,4 +1,4 @@
-# GRC Engineering Portfolio – Shimsha Shetty
+# GRC Engineering Portfolio
 
 ---
 
