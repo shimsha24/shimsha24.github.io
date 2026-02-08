@@ -1,134 +1,148 @@
-# GRC Portfolio Hub
+# GRC Professional Portfolio: Shimsha Shetty
 
-  [![Test Suite](https://github.com/ajy0127/grc_portfolio/actions/workflows/test.yml/badge.svg)](https://github.com/ajy0127/grc_portfolio/actions/workflows/test.yml)
+## About Me
 
+Hello, I'm Shimsha Shetty, a Governance, Risk, and Compliance (GRC) professional with a focus on AWS cloud security. I'm passionate about building secure cloud environments and ensuring compliance with industry standards and regulations.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Development-yellow" alt="Status: In Development">
-  <img src="https://img.shields.io/badge/AWS-Security-orange" alt="AWS Security">
-  <img src="https://img.shields.io/badge/Focus-GRC-blue" alt="Focus: GRC">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License: MIT">
-</p>
+I am currently working in GRC space. I'm looking to grow my career in cloud security governance.
 
-## Disclaimers
+## Contact Information
 
-1. This is a personal project and does not represent or reflect the views, opinions, or work of my current employer, Aquia, or any previous employers.
+- **Email**: shimsha.shetty@gmail.com
+- **LinkedIn**: [linkedin.com/in/shimshashetty]([https://www.linkedin.com/in/shimsha-shetty/])
+- **GitHub**: 
+- **Location**: Melbourne, Austrlia
 
-2. The code, configurations, and resources in this repository are for **educational purposes only**. While they demonstrate security concepts, they should not be used directly in production environments without proper review, testing, and customization for your specific security and compliance requirements.
+## Professional Summary
 
-## Project Vision
+As an early-career GRC professional, I'm focused on building practical skills in AWS security implementation and compliance automation. With foundational knowledge in cybersecurity and hands-on experience with AWS security services, I'm passionate about helping organizations establish secure cloud environments that meet regulatory requirements. I'm particularly interested in security automation and improving the efficiency of compliance processes.
 
-This GRC Portfolio Hub is my initiative to empower Governance, Risk, and Compliance professionals in showcasing their practical AWS GRC engineering implementation skills. Drawing from my 15 years of cybersecurity experience and deep expertise in GRC Engineering, I've created this repository to bridge the gap between theoretical knowledge and hands-on expertise by providing ready-to-deploy labs, comprehensive guidance, and a structured portfolio framework.
+## Technical Skills
 
-My mission is to create the industry's premier open-source resource for GRC professionals to demonstrate practical AWS GRC engineering skills through guided, hands-on experiences that directly align with employer needs and AWS best practices.
+### Cloud Platforms
+- Amazon Web Services (AWS)
+- Microsoft Azure (Fundamentals)
 
-## About the Author
+### Security & Compliance
+- AWS Security Services (GuardDuty, Security Hub, IAM, Config)
+- Compliance Frameworks (NIST CSF, CIS)
+- Risk Assessment Fundamentals
+- Security Control Implementation
 
-I'm [AJ Yawn](https://www.linkedin.com/in/ajyawn/), a cybersecurity professional with nearly 15 years of experience specializing in GRC Engineering and compliance automation. My journey includes:
+### Tools & Technologies
+- Infrastructure as Code (CloudFormation, AWS CDK basics)
+- Basic scripting (Python, Bash)
+- Version control with Git
+- Monitoring fundamentals (CloudWatch)
 
-- **Military Leadership**: Served as a U.S. Army Officer in the Signal Corps, achieving the rank of Captain
-- **Consulting Excellence**: At Coalfire, helped grow the compliance practice from 9 to 100+ people, advancing from junior auditor to principal consultant
-- **Entrepreneurial Success**: Founded ByteChek, a compliance automation startup that achieved $1M+ Annual Recurring Revenue, focusing on SOC 2 and HIPAA automation
-- **Corporate Innovation**: Served as a Partner at Armanino (Top 20 CPA firm), leading product and innovation initiatives including a audit automation tool. 
-- **LinkedIn Learning and SANS Instrucutor**: Teach courses on cloud compliance and automation at the SANS Institute and have educated over 125K learners on LinkedIn Learning including GRC courses. 
-- **Current Role**: Director of GRC Engineering at Aquia
+## Certifications
 
-Throughout my career, I've been driven by the mission to make compliance more efficient and accessible through automation and engineering principles. This portfolio hub represents a culmination of my experiences and lessons learned in GRC Engineering.
+- AWS Certified Security - Specialty - AWS - 2023
+- AWS Certified Solutions Architect - Associate - AWS - 2022
+- CompTIA Security+ - CompTIA - 2021
 
-## What's Inside
+## Projects
 
-- **Portfolio Templates**: Professional templates for creating your GRC portfolio, optimized for GitHub and ready to showcase your skills to potential employers
-- **Hands-on Labs**: Comprehensive, step-by-step labs covering core AWS security domains
-- **Full Code Implementations**: Complete CloudFormation templates for all labs
-- **Advanced Challenges**: Stretch goals and real-world scenarios to demonstrate advanced skills
-- **Learning Resources**: Curated references, comparison charts, and learning paths
+### AWS Security Baseline Implementation
 
-## Repository Structure
+**Description**: Implemented a security baseline for a development AWS account following AWS Well-Architected Framework security best practices.
 
-This repository is part of a progressive release strategy for my upcoming book [GRC Engineering: Building Secure, Compliant AWS Environments](https://grcengineeringbook.com/). Currently, it includes:
+**Skills Demonstrated**:
+- AWS security services configuration
+- Security monitoring setup
+- Compliance controls implementation
 
-```
-GRC_Portfolio/
-├── README.md - You are here!
-├── CONTRIBUTING.md - Guidelines for contributors
-├── LICENSE - Project license
-├── portfolio-templates/ - Templates and examples for your GRC portfolio
-├── labs/ - Hands-on AWS security labs with full code and documentation
-│   └── lab-1-account-governance/ - AWS account security foundations 
-├── resources/ - AWS security services guide
-└── config/ - Configuration files for testing and development
-```
+**Implementation Details**:
+- Configured IAM password policies and enforced MFA
+- Implemented CloudTrail for comprehensive logging
+- Set up AWS Config for monitoring security compliance
+- Enabled Security Hub with industry-standard benchmarks
 
-**Coming Soon:** Additional labs will be released weekly, leading up to the book launch. Each new lab will introduce additional AWS security domains and challenges. Stay tuned for:
+**Results**:
+- Achieved 90% compliance with CIS AWS Foundations Benchmark
+- Remediated 15 high-priority security findings
+- Improved overall security posture of the development environment
 
-- IAM Implementation
-- Security Automation with IaC
-- Security Monitoring and Incident Response
-- Compliance Automation
-- Data Security and Protection
-- Risk Assessment and Threat Modeling
-- Infrastructure and Network Protection
-- Incident Response and Recovery
-- Policy as Code implementation
-- Advanced multi-lab integration challenges and capstone projects
+### Security Monitoring Dashboard
 
-## Labs Overview
+**Description**: Created a centralized security monitoring dashboard for AWS resources using native AWS services.
 
-Currently available:
+**Skills Demonstrated**:
+- AWS CloudWatch configuration
+- Security metrics visualization
+- Alerting setup
 
-1. **AWS Account Governance and Security Foundations** - Learn how to establish secure AWS account configurations, implement security baselines, and monitor account-level security posture.
+**Implementation Details**:
+- Configured CloudWatch dashboards for security metrics
+- Set up alarms for security-critical events
+- Integrated Security Hub findings into monitoring
+- Created automated notification system for security events
 
-Each lab includes:
-- Clear learning objectives mapped to AWS Well-Architected Framework
-- Step-by-step implementation guides
-- Complete code in CloudFormation
-- Validation checklists and troubleshooting guides
-- Advanced challenges to extend your learning
+**Results**:
+- Reduced time to detect security issues by 60%
+- Implemented daily security reports for the security team
+- Created baseline metrics for ongoing security improvements
 
-## Future Labs (Coming Weekly)
+## AWS Security Implementations
 
-Following our progressive release strategy, we'll be introducing new labs regularly, covering:
+### AWS Account Governance
 
-- **Identity and Access Management (IAM)**: Implementation of least privilege access controls
-- **Security Automation with Infrastructure as Code**: Implementing security guardrails through IaC
-- **Security Monitoring and Incident Response**: Setting up effective monitoring systems
-- **Compliance Automation**: Streamlining regulatory compliance
-- **Data Security and Protection**: Ensuring data confidentiality and integrity
-- **Risk Assessment and Threat Modeling**: Methodologies for AWS environments
-- **Infrastructure and Network Protection**: Securing AWS networking components
-- **Incident Response and Recovery**: Creating effective incident handling procedures
-- **Policy as Code**: Implementation of scalable policy management via CI/CD
-- **Advanced Capstone Projects**: End-to-end implementations that combine concepts from multiple domains
+**Lab Completion Date**: July 2023
 
-## Resources
+**Overview**: Implemented foundational security controls for AWS account governance following best practices from the AWS Well-Architected Framework.
 
-### AWS Security Services Guide
-- Comprehensive service guides
-- Implementation best practices
-- Integration examples
-- Cost optimization strategies
-- Service comparison matrix
-- Code examples for monitoring and security
+**Key Implementations**:
+- Configured AWS IAM password policies and enforced MFA
+- Set up AWS Config for compliance monitoring
+- Implemented AWS Security Hub for centralized security management
+- Established cost controls and budget alerts
 
+**Skills Demonstrated**:
+- AWS security best practices implementation
+- Compliance automation
+- Security monitoring configuration
 
-## How to Contribute
+[Link to detailed implementation in my GitHub repository](https://github.com/alexjohnson/aws-account-governance)
 
-We welcome contributions from the community! Whether you're fixing a typo, enhancing a lab, or contributing a completely new challenge, your help is appreciated.
+### Identity and Access Management Implementation
 
-See our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
+**Lab Completion Date**: August 2023
 
-## License
+**Overview**: Established a robust identity and access management system following the principle of least privilege.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Key Implementations**:
+- Created role-based access control structure
+- Implemented permission boundaries for delegated administration
+- Set up IAM Access Analyzer to identify unintended resource access
+- Created cross-account access patterns for multi-account architecture
 
-## Acknowledgements
+**Skills Demonstrated**:
+- IAM best practices implementation
+- Least privilege access control
+- Access analysis and monitoring
 
-This project is inspired by the need for practical, hands-on resources for GRC professionals looking to demonstrate their technical capabilities in AWS security implementation.
+[Link to detailed implementation in my GitHub repository](https://github.com/alexjohnson/aws-iam-implementation)
 
-## Contact
+## Education
 
-If you have questions or feedback, please open an issue in this repository.
+- **Bachelor of Science in Cybersecurity** - University of Washington - 2021
+- **AWS Security Fundamentals Training** - AWS Training & Certification - 2022
+
+## Professional Development
+
+### Courses and Training
+- AWS Security Best Practices Workshop - AWS - 2023
+- Cloud Security Fundamentals - Cloud Security Alliance - 2022
+
+### Conferences and Events
+- AWS re:Inforce (Virtual) - 2023
+- Local Cloud Security Meetup - 2022-Present
+
+## Career Goals
+
+In the short term, I aim to expand my hands-on experience with AWS security services and compliance automation while contributing to a security-focused team. Long-term, I aspire to become a GRC leader who can bridge the gap between technical security implementation and business compliance requirements, helping organizations build secure and compliant cloud environments at scale.
 
 ---
 
+*This portfolio was created using the [GRC Portfolio Hub](https://github.com/alexjohnson/GRC_Portfolio) template.* 
 <p align="center">Created for the GRC community</p>
